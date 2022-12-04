@@ -15,5 +15,4 @@ while True:
     if a == 1:
         continue
     else:
-        breaK
-;;
+        break
